@@ -30,6 +30,18 @@ docs(requisitos)
 https://docs.google.com/document/d/1rlgwg_IXVa_m1FGJnBPioBf1nW0noKdgyUpe6sHonGQ/edit?tab=t.jeddu51ocs8j
 ```
 
+Apresentação(figma)
+
+```
+https://www.figma.com/proto/rrRjt9cdopz6585Scgbdab/Travel-Planning?node-id=1-2&p=f&t=c98WRXtetCZROJCu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
+```
+
+Diagramas
+
+```
+https://excalidraw.com/#room=05bb312e8eb339a6f300,-nJa5ykSdIxt7iuD3NZHFA
+```
+
 ## Estrutura
 
 ```
@@ -162,3 +174,76 @@ TM04 - Modelo de negócio e parcerias
 | RF13 | RNF12                             |
 | RF14 | RNF08                             |
 | RF15 | RNF03, RNF05, RNF10               |
+
+# Requisitos de Processo
+
+## RP01 – Utilização de protótipos para validação
+
+Descrição:
+A equipe deve utilizar protótipos de interface para apoiar a elicitação, validação e refinamento dos requisitos do sistema.
+
+---
+
+## RP02 – Rastreabilidade dos requisitos
+
+Descrição:
+Todos os requisitos funcionais devem possuir rastreabilidade com pelo menos uma história de usuário e, quando aplicável, com requisitos de negócio e regras de negócio.
+
+---
+
+## RP03 – Controle de versão dos artefatos
+
+Descrição:
+Os artefatos produzidos durante o projeto devem possuir controle de versão, permitindo identificar alterações realizadas ao longo do desenvolvimento.
+
+---
+
+## RP04 – Atualização contínua da documentação
+
+Descrição:
+A documentação do projeto deve ser atualizada sempre que ocorrerem alterações significativas nos requisitos, regras de negócio ou protótipos.
+
+---
+
+## RP05 – Desenvolvimento centrado no usuário
+
+Descrição:
+As decisões de projeto devem considerar as necessidades dos usuários identificados no sistema, especialmente Organizadores e Participantes de viagens.
+
+---
+
+## RP06 – Consideração dos desafios GrandSI-BR
+
+Descrição:
+A equipe deve garantir que os requisitos e protótipos reflitam os desafios GrandSI-BR selecionados:
+
+- Sistemas de Informação Inteligentes sob a Perspectiva Sociotécnica;
+- Inteligência Artificial Confiável e Centrada no Ser Humano.
+
+---
+
+## RP07 – Validação dos requisitos pela equipe
+
+Descrição:
+Os requisitos levantados devem ser revisados e validados pela equipe antes de serem considerados concluídos.
+
+---
+
+## RP08 – Priorização de funcionalidades essenciais
+
+Descrição:
+As funcionalidades relacionadas ao planejamento colaborativo da viagem e geração de roteiros por IA devem possuir prioridade sobre funcionalidades complementares de monetização.
+
+---
+
+## RP09 – Consistência entre requisitos e protótipos
+
+Descrição:
+Toda funcionalidade representada nos protótipos deve possuir correspondência nos requisitos do sistema e vice-versa.
+
+---
+
+## RP10 – Documentação das funcionalidades de IA
+
+Descrição:
+As funcionalidades que utilizam inteligência artificial devem possuir documentação descrevendo sua finalidade, entradas consideradas e resultados esperados.
