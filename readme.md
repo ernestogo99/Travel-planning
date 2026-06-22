@@ -162,9 +162,3 @@ TM04 - Modelo de negócio e parcerias
 | RF13 | RNF12                             |
 | RF14 | RNF08                             |
 | RF15 | RNF03, RNF05, RNF10               |
-
-```
-
-```
-
-                                       |
