@@ -38,29 +38,26 @@ TM01 - Planejamento colaborativo da viagem
 ├── EP01 Criar e gerenciar viagens em grupo
 ├── EP02 Gerenciar participantes da viagem
 ├── EP03 Configurar informações iniciais da viagem
-└── EP04 Realizar decisões colaborativas
+└── EP04 Avaliar e decidir opções da viagem em grupo
 
 
 TM02 - Geração de roteiro com IA
 │
-├── EP05 Coletar preferências dos participantes
+├── EP05 Identificar preferências dos participantes
 ├── EP06 Gerar recomendações personalizadas
 ├── EP07 Criar roteiro inteligente
-└── EP08 Ajustar recomendações da IA
+
 
 
 TM03 - Organização do itinerário
 │
-├── EP09 Organizar cronograma
-├── EP10 Gerenciar atividades
-├── EP11 Compartilhar informações
-└── EP12 Comunicar alterações
+├── EP08 Organizar cronograma da viagem
+├── EP09 Gerenciar atividades
+└── EP10 Comunicar alterações
 
 
-TM04 - Monetização e parceiros
+TM04 - Modelo de negócio e parcerias
 │
-├── EP13 Integrar parceiros
-├── EP14 Versão gratuita
-├── EP15 Recursos premium
-└── EP16 Publicidade
+├── EP11 Exibir conteúdo patrocinado
+├── EP12 Gerenciar assinaturas premium
 ```
